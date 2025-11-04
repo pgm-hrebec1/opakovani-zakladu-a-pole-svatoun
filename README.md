@@ -19,3 +19,6 @@ Dale se u kazdeho ukolu hodnoti celkove:
 4. Bonusovy 1 bod za unikatni pristup.
 
 Prehlednost a dodrzovani konvenci je dulezite, proto vysoke ohodnoceni. Nektere ulohy nemusi obsahovat vsechny slozky, maximum bodu je nizsi.
+
+
+
